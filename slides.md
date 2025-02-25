@@ -1266,6 +1266,7 @@ C:/Users/hello.go/go run hello.go
 ---
 layout: two-cols
 ---
+
 <v-clicks>
 
 <template v-slot:default>
@@ -1439,6 +1440,7 @@ C:/Users/hello.go/go run hello.go
 ---
 layout: two-cols
 ---
+
 <template v-slot:default>
 
 ## 11.3 การใช้งาน Slice และ Map ร่วมกัน
@@ -1519,6 +1521,7 @@ C:/Users/hello.go/go run hello.go
 ---
 layout: two-cols
 ---
+
 <template v-slot:default>
 
 <v-clicks>
@@ -1570,6 +1573,7 @@ layout: two-cols
 ---
 layout: two-cols
 ---
+
 <template v-slot:default>
 
 <v-clicks>
@@ -1620,6 +1624,7 @@ layout: two-cols
 ---
 layout: two-cols
 ---
+
 <template v-slot:default>
 
 <v-clicks>
